@@ -3,7 +3,7 @@
 
 
 ## Olá :v:
-Apaixonado por programação, atualmente focado em desenvolvimento dart :iphone: e web:computer:. 
+Apaixonado por programação, atualmente focado em desenvolvimento dart :iphone: e DevOps:computer:. 
 
  <br/> :email: &nbsp; Entre em contato comigo: 
 |
