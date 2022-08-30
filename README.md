@@ -3,7 +3,13 @@
 
 
 ## Olá :v:
-Apaixonado por programação, atualmente focado em desenvolvimento dart :iphone: e DevOps:computer:. 
+Apaixonado por programação, atualmente focado em desenvolvimento NodeJS e DevOpS:.
+
+# Desenvolvimento de sistemas em interoperabilidade utilizando protocolos (HL7, Mirth Connect)
+
+
+# Café da tarde é Pentest em aplicações em busca de conhecimento sobre vulnerabilidades, para coindicidr com o conhecimento em Devops.
+
 
  <br/> :email: &nbsp; Entre em contato comigo: 
 |
